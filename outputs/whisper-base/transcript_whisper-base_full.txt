@@ -1,0 +1,114 @@
+[0.40 - 4.32] Speaker Unknown: Well, certainly is early the [ORGANIZATION_1]. Do you have a license for your [OCCUPATION_1]? No.
+[4.78 - 6.38] Speaker Unknown: You don't have your license? No, it's fine.
+[6.86 - 10.46] Speaker Unknown: All right. Your role is backwindowed down about halfway for him. What?
+[11.82 - 13.00] Speaker Unknown: Well, backwind about?
+[14.22 - 18.70] Speaker Unknown: Because the reason for this stop is your tent. Your front window tent is illegal and so is this 1
+[19.42 - 20.76] Speaker Unknown: roll this down about halfway
+[21.50 - 22.92] Speaker Unknown: because I'm telling you to
+[24.00 - 25.26] Speaker Unknown: about halfway sir
+[27.24 - 29.62] Speaker Unknown: it's happening probably gonna take it pretty fun
+[29.94 - 31.32] Speaker Unknown: roll it down a little more
+[33.82 - 34.92] Speaker Unknown: you don't have a license
+[35.98 - 37.90] Speaker Unknown: all right can you roll this down a little more
+[39.66 - 44.30] Speaker Unknown: sir just roll the wind down about halfway. Okay, it's down. Sir, it's not... All right, you know what?
+[45.12 - 48.58] Speaker Unknown: Yeah. All right, yeah, 2%. All right, that's the reason for this time.
+[49.14 - 51.04] Speaker Unknown: Have you ever had a license out of [LOCATION_STATE_1]?
+[51.62 - 52.12] Speaker Unknown: Yeah,
+[52.90 - 57.16] Speaker Unknown: what's wrong? Is this funded? Yeah, I've always been so kind of for. I don't know.
+[57.66 - 59.24] Speaker Unknown: Hey, I'm good here just
+[61.66 - 62.96] Speaker 1.0: Damn, you got it. Damn,
+[63.56 - 66.40] Speaker Unknown: I might as well get out. You're saying the car for right now. You might as well pull me out of the car.
+[69.24 - 75.00] Speaker Unknown: Big dog. I'm gonna cut the car or you could pull me out. Cut the car or you're gonna stay in the car for right now. What's your first name?
+[75.74 - 90.40] Speaker 1.0: Man, I'm gonna get out the car. I'm gonna get out the car. You're gonna stay in the car right now. I'm gonna get out the car. You are gonna do what I tell you to do right now. That's how this works. Okay, so I'm gonna get out the car, so you'll see how you're gonna get out of the car right now. Okay. Tell me your name is what's gonna happen. Yeah, okay, just pull me out of the car. Yeah, that's your first name.
+[91.20 - 91.70] Speaker Unknown: What
+[92.50 - 94.38] Speaker Unknown: is your first name? I'm the
+[94.68 - 97.08] Speaker 1.0: baby, be out. Who's in your name?
+[97.96 - 102.00] Speaker Unknown: We're just talking about the final license. We can talk about that. We're gonna choose your name.
+[104.24 - 104.74] Speaker Unknown: I'm
+[105.06 - 109.46] Speaker 1.0: telling you. All right, so what's your first name? I still need to know your first name regardless. [NAME_1], what's my name? What's your birthday?
+[109.84 - 110.34] Speaker Unknown: [DOB_1].
+[111.12 - 112.14] Speaker Unknown: What's your [GENDER_SEXUALITY_1] name?
+[113.76 - 114.74] Speaker Unknown: [NAME_2].
+[115.16 - 117.70] Speaker Unknown: What is it? [NAME_3].
+[118.20 - 119.10] Speaker Unknown: All right, listen.
+[119.44 - 129.56] Speaker Unknown: This is what's gonna happen. You're gonna put your hands on steering wheel. I'm gonna open the door. I'm gonna have you step out. You pull away from me and like that, that is resisting, you're gonna go to jail for that.
+[129.98 - 134.84] Speaker Unknown: You try to run, you're gonna get tased. I promise you. Where did it come from? I'm letting you know that.
+[135.86 - 137.08] Speaker Unknown: Throw it through 1 go.
+[141.64 - 144.48] Speaker Unknown: Put your hands on steering wheel, Put your foot back in the corner. That way.
+[147.40 - 148.70] Speaker Unknown: [NAME_GIVEN_1]. That's it.
+[149.11 - 149.61] Speaker Unknown: That's
+[150.02 - 150.52] Speaker Unknown: it.
+[153.00 - 153.66] Speaker 1.0: I'm going to...
+[154.18 - 158.12] Speaker 1.0: You got to touch me? You don't got to touch me. Get out of the corner. You got to touch me. Get out of the corner. Get out of
+[158.70 - 162.86] Speaker 1.0: the corner. You don't gotta touch me. I'm getting out. Turn around and face the corner.
+[163.20 - 164.76] Speaker Unknown: Turn around and face the corner.
+[165.22 - 166.12] Speaker 1.0: Okay, let me go.
+[166.49 - 166.99] Speaker 1.0: I'm
+[167.36 - 168.28] Speaker 1.0: gonna do it.
+[169.44 - 170.00] Speaker 1.0: What's that?
+[171.14 - 171.64] Speaker 1.0: What's
+[173.36 - 173.86] Speaker 1.0: that?
+[175.25 - 175.75] Speaker 1.0: What's
+[177.14 - 182.50] Speaker 1.0: that? What's that? Okay I'm gonna go to the grocery store. This is all you're gonna do.
+[183.52 - 184.76] Speaker 1.0: There's no jail.
+[185.46 - 186.04] Speaker 1.0: There's no jail.
+[188.18 - 191.00] Speaker 1.0: There's no jail. That was stupid.
+[191.86 - 192.84] Speaker 1.0: I can't win.
+[193.32 - 194.34] Speaker 1.0: I can't
+[195.08 - 195.58] Speaker 1.0: win.
+[195.96 - 196.78] Speaker Unknown: That was just...
+[197.44 - 198.38] Speaker 1.0: Give me your hands.
+[198.98 - 199.84] Speaker 1.0: Give me your hands.
+[200.78 - 201.28] Speaker 1.0: Give
+[201.72 - 202.50] Speaker 1.0: me your hands.
+[204.42 - 204.92] Speaker 1.0: Give
+[205.28 - 205.84] Speaker 1.0: me your hands.
+[206.30 - 206.80] Speaker 1.0: Give
+[207.34 - 208.36] Speaker 1.0: me your hands.
+[210.28 - 212.38] Speaker 1.0: That's about to touch me. I never resist
+[214.34 - 214.84] Speaker 1.0: My
+[225.06 - 227.14] Speaker 1.0: I'm going to go in. That's good.
+[229.50 - 230.84] Speaker 1.0: What's he? What's
+[232.58 - 233.16] Speaker 1.0: he? You
+[234.20 - 235.32] Speaker 1.0: win. You win.
+[236.76 - 239.12] Speaker 1.0: You'll be in that number. I got
+[247.52 - 250.44] Speaker 1.0: this. I got this. I got this. Oh, she is.
+[250.94 - 252.02] Speaker 1.0: That's good.
+[255.06 - 255.56] Speaker 1.0: I'm
+[256.20 - 260.52] Speaker 1.0: going to go to the mine. The first 1. That 1 is right here.
+[260.94 - 263.12] Speaker Unknown: That 1. That 1 is stupid.
+[265.48 - 266.54] Speaker Unknown: No. I don't know.
+[268.68 - 271.36] Speaker 1.0: I think every time I think about the whole thing.
+[271.68 - 272.20] Speaker Unknown: I hope.
+[273.98 - 275.58] Speaker Unknown: I'm going to have to go [DURATION_1].
+[275.73 - 277.32] Speaker Unknown: I saw that coming.
+[281.40 - 282.08] Speaker Unknown: Stand up.
+[282.80 - 283.46] Speaker Unknown: Get up.
+[284.56 - 286.34] Speaker 1.0: Run. That's it from. Probably.
+[287.10 - 288.28] Speaker 1.0: Yeah, I'm about to go.
+[288.92 - 291.48] Speaker Unknown: I'm still gonna fight the police. I'm about to go.
+[291.80 - 295.56] Speaker 1.0: I'm about to go. No. Get off from it. Get off.
+[296.02 - 296.60] Speaker 1.0: Get off.
+[297.34 - 299.34] Speaker 1.0: Get off. Get off the shot. Get
+[300.09 - 300.59] Speaker 1.0: my
+[301.34 - 301.84] Speaker 1.0: [MONEY_1].
+[302.58 - 303.08] Speaker 1.0: That's
+[303.83 - 304.33] Speaker 1.0: it
+[305.08 - 305.58] Speaker 1.0: from
+[306.33 - 306.83] Speaker 1.0: pro
+[307.57 - 308.07] Speaker 1.0: You
+[308.82 - 309.32] Speaker 1.0: still
+[310.07 - 310.57] Speaker 1.0: have
+[311.32 - 311.82] Speaker 1.0: fight
+[312.56 - 313.06] Speaker 1.0: to
+[313.81 - 314.31] Speaker 1.0: please
+[315.06 - 315.56] Speaker 1.0: I
+[321.20 - 322.40] Speaker Unknown: got a certain 1.
+[325.18 - 327.64] Speaker 1.0: Let me get the shirt. No, I got a certain
+[328.60 - 329.10] Speaker 1.0: 1.
+[330.06 - 330.56] Speaker 1.0: I
+[331.02 - 333.64] Speaker 1.0: don't know if it's better. It's better. It's better.
+[334.18 - 335.16] Speaker Unknown: What do you want me to say?
+[342.96 - 344.28] Speaker 1.0: Why do you stuff like that?
+[344.80 - 347.68] Speaker 1.0: What? Why do you stuff? I ain't got a 1 of them.
+[349.28 - 350.88] Speaker 1.0: What's the weekday I thought? Yeah.

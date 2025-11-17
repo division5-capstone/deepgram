@@ -1,0 +1,114 @@
+[0.40 - 4.32] Speaker Unknown: - - - early - - - - have - - - your - -
+[4.78 - 6.38] Speaker Unknown: you don't - - - - - -
+[6.86 - 10.46] Speaker Unknown: - - your role - - down - - - - -
+[11.82 - 13.00] Speaker Unknown: - - -
+[14.22 - 18.70] Speaker Unknown: because the - - this stop - - - your - window tent - - - so - - -
+[19.42 - 20.76] Speaker Unknown: - - - - -
+[21.50 - 22.92] Speaker Unknown: because i'm - - to
+[24.00 - 25.26] Speaker Unknown: about - -
+[27.24 - 29.62] Speaker Unknown: - - probably - - - - fun
+[29.94 - 31.32] Speaker Unknown: roll it down a - -
+[33.82 - 34.92] Speaker Unknown: you don't have - license
+[35.98 - 37.90] Speaker Unknown: - right can - roll this down a - -
+[39.66 - 44.30] Speaker Unknown: sir just - the - - about - okay it's down - - - - right you - -
+[45.12 - 48.58] Speaker Unknown: yeah - right - 2% - right - the - - this -
+[49.14 - 51.04] Speaker Unknown: have you ever had a license out - [LOCATION_STATE_1]
+[51.62 - 52.12] Speaker Unknown: yeah
+[52.90 - 57.16] Speaker Unknown: what's - - this funded - i've - - - - - for i don't -
+[57.66 - 59.24] Speaker Unknown: hey i'm - - -
+[61.66 - 62.96] Speaker 1.0: - - - - -
+[63.56 - 66.40] Speaker Unknown: - might - - - - - saying the car for - - - might - well pull - out of - -
+[69.24 - 75.00] Speaker Unknown: big - - gonna cut - - - - could pull - - cut - - - - gonna stay in - car for - - what's your first -
+[75.74 - 90.40] Speaker 1.0: man - gonna - out the - - - - out - - you're gonna stay in the car - - i'm gonna - out - - - are - do what i tell you to do - - - how this - okay so - gonna get out - - - you'll - - - - - out of the car right - - tell me your name is - - - yeah - just pull me out of - - - that's your first -
+[91.20 - 91.70] Speaker Unknown: what
+[92.50 - 94.38] Speaker Unknown: is your first - - -
+[94.68 - 97.08] Speaker 1.0: - - - - - your -
+[97.96 - 102.00] Speaker Unknown: - just - - - - - we can talk - - - - - - -
+[104.24 - 104.74] Speaker Unknown: -
+[105.06 - 109.46] Speaker 1.0: - - - - - what's your first - i - need to know - - - - - - my - what's your -
+[109.84 - 110.34] Speaker Unknown: -
+[111.12 - 112.14] Speaker Unknown: what's your [GENDER_SEXUALITY_1] -
+[113.76 - 114.74] Speaker Unknown: -
+[115.16 - 117.70] Speaker Unknown: what is - -
+[118.20 - 119.10] Speaker Unknown: - right -
+[119.44 - 129.56] Speaker Unknown: this - - gonna - - gonna put your - on - - - gonna open - - i'm gonna have you step - you pull away - - and - - that - - you're gonna go to jail for -
+[129.98 - 134.84] Speaker Unknown: you try - run you're - get - i - - - did it come from i'm letting you know -
+[135.86 - 137.08] Speaker Unknown: - - - 1 -
+[141.64 - 144.48] Speaker Unknown: put your - on - - put your foot back - the - - -
+[147.40 - 148.70] Speaker Unknown: - - -
+[149.11 - 149.61] Speaker Unknown: -
+[150.02 - 150.52] Speaker Unknown: -
+[153.00 - 153.66] Speaker 1.0: - - -
+[154.18 - 158.12] Speaker 1.0: - - to - - you - got to - - get out of - - you - to - - get out - - - - out of
+[158.70 - 162.86] Speaker 1.0: - - you don't gotta - - - - - turn around and - the -
+[163.20 - 164.76] Speaker Unknown: turn around and face the corner
+[165.22 - 166.12] Speaker 1.0: - - - -
+[166.49 - 166.99] Speaker 1.0: -
+[167.36 - 168.28] Speaker 1.0: gonna - -
+[169.44 - 170.00] Speaker 1.0: - -
+[171.14 - 171.64] Speaker 1.0: -
+[173.36 - 173.86] Speaker 1.0: -
+[175.25 - 175.75] Speaker 1.0: -
+[177.14 - 182.50] Speaker 1.0: - - - - - - - - - - - - - - - - -
+[183.52 - 184.76] Speaker 1.0: - - -
+[185.46 - 186.04] Speaker 1.0: - - -
+[188.18 - 191.00] Speaker 1.0: - - - - was -
+[191.86 - 192.84] Speaker 1.0: i - -
+[193.32 - 194.34] Speaker 1.0: i can't
+[195.08 - 195.58] Speaker 1.0: win
+[195.96 - 196.78] Speaker Unknown: - - -
+[197.44 - 198.38] Speaker 1.0: give - your -
+[198.98 - 199.84] Speaker 1.0: give me - -
+[200.78 - 201.28] Speaker 1.0: give
+[201.72 - 202.50] Speaker 1.0: me - hands
+[204.42 - 204.92] Speaker 1.0: give
+[205.28 - 205.84] Speaker 1.0: me your -
+[206.30 - 206.80] Speaker 1.0: give
+[207.34 - 208.36] Speaker 1.0: me your -
+[210.28 - 212.38] Speaker 1.0: - about to - - i - -
+[214.34 - 214.84] Speaker 1.0: -
+[225.06 - 227.14] Speaker 1.0: - - - - - - -
+[229.50 - 230.84] Speaker 1.0: - - -
+[232.58 - 233.16] Speaker 1.0: - -
+[234.20 - 235.32] Speaker 1.0: - you win
+[236.76 - 239.12] Speaker 1.0: - - - - - - -
+[247.52 - 250.44] Speaker 1.0: - - - - - - - - - -
+[250.94 - 252.02] Speaker 1.0: - good
+[255.06 - 255.56] Speaker 1.0: -
+[256.20 - 260.52] Speaker 1.0: - - - - - - - - - - - - right -
+[260.94 - 263.12] Speaker Unknown: - - - - is -
+[265.48 - 266.54] Speaker Unknown: - i - -
+[268.68 - 271.36] Speaker 1.0: - - - - - - - - - -
+[271.68 - 272.20] Speaker Unknown: - -
+[273.98 - 275.58] Speaker Unknown: - - - - - go -
+[275.73 - 277.32] Speaker Unknown: i - that -
+[281.40 - 282.08] Speaker Unknown: stand -
+[282.80 - 283.46] Speaker Unknown: get -
+[284.56 - 286.34] Speaker 1.0: - - - - -
+[287.10 - 288.28] Speaker 1.0: - - - - -
+[288.92 - 291.48] Speaker Unknown: - still - fight the - - - - -
+[291.80 - 295.56] Speaker 1.0: - - - - - - - - - - -
+[296.02 - 296.60] Speaker 1.0: - -
+[297.34 - 299.34] Speaker 1.0: - - - - - - -
+[300.09 - 300.59] Speaker 1.0: my
+[301.34 - 301.84] Speaker 1.0: -
+[302.58 - 303.08] Speaker 1.0: -
+[303.83 - 304.33] Speaker 1.0: -
+[305.08 - 305.58] Speaker 1.0: -
+[306.33 - 306.83] Speaker 1.0: -
+[307.57 - 308.07] Speaker 1.0: -
+[308.82 - 309.32] Speaker 1.0: -
+[310.07 - 310.57] Speaker 1.0: have
+[311.32 - 311.82] Speaker 1.0: -
+[312.56 - 313.06] Speaker 1.0: -
+[313.81 - 314.31] Speaker 1.0: -
+[315.06 - 315.56] Speaker 1.0: -
+[321.20 - 322.40] Speaker Unknown: - - - -
+[325.18 - 327.64] Speaker 1.0: let - - - - no i got - -
+[328.60 - 329.10] Speaker 1.0: -
+[330.06 - 330.56] Speaker 1.0: i
+[331.02 - 333.64] Speaker 1.0: - - - - - - - it's -
+[334.18 - 335.16] Speaker Unknown: - - - want me to -
+[342.96 - 344.28] Speaker 1.0: - - - - like -
+[344.80 - 347.68] Speaker 1.0: - - - - stuff i - - - - - -
+[349.28 - 350.88] Speaker 1.0: - - - - - -

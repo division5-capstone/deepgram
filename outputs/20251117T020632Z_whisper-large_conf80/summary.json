@@ -1,0 +1,11 @@
+{
+  "avg_confidence": 0.7207687087618384,
+  "total_words": 718,
+  "numeric_conf_words": 718,
+  "low_conf_count": 300,
+  "low_conf_percent": 41.78272980501393,
+  "model": "whisper-large",
+  "threshold": 0.8,
+  "run_id": "20251117T020632Z_whisper-large_conf80",
+  "label": "20251117T020632Z_whisper-large_conf80"
+}

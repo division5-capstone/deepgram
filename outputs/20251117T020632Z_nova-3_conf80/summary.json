@@ -1,0 +1,11 @@
+{
+  "avg_confidence": 0.8873146531358884,
+  "total_words": 574,
+  "numeric_conf_words": 574,
+  "low_conf_count": 115,
+  "low_conf_percent": 20.034843205574912,
+  "model": "nova-3",
+  "threshold": 0.8,
+  "run_id": "20251117T020632Z_nova-3_conf80",
+  "label": "20251117T020632Z_nova-3_conf80"
+}

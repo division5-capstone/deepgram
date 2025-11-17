@@ -1,0 +1,11 @@
+{
+  "avg_confidence": 0.8714427326568266,
+  "total_words": 542,
+  "numeric_conf_words": 542,
+  "low_conf_count": 135,
+  "low_conf_percent": 24.907749077490777,
+  "model": "nova-2-meeting",
+  "threshold": 0.8,
+  "run_id": "20251117T020632Z_nova-2-meeting_conf80",
+  "label": "20251117T020632Z_nova-2-meeting_conf80"
+}

@@ -1,0 +1,11 @@
+{
+  "avg_confidence": 0.8620318360615942,
+  "total_words": 552,
+  "numeric_conf_words": 552,
+  "low_conf_count": 195,
+  "low_conf_percent": 35.32608695652174,
+  "model": "nova-2-video",
+  "threshold": 0.9,
+  "run_id": "20251117T020632Z_nova-2-video_conf90",
+  "label": "20251117T020632Z_nova-2-video_conf90"
+}
